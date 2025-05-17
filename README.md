@@ -90,6 +90,6 @@ npm run build && deploy build/ folder
 ```
 # 📜 License: MIT
 👨💻 Author: Raghav Sharma
-📧 Contact: example@email.com
+📧 Contact: raghav.sharma09900@gmail.com
 🔗 GitHub: 0Raghav-Sharma0
 
